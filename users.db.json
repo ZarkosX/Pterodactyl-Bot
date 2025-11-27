@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "discordId": "123456789012345678",
+      "discordTag": "ahmed1234",
+      "email": "ahmed1234@welderhost.bot",
+      "password": "xK9mPqR3vL8wZ2nT",
+      "pteroUserId": 42,
+      "serverId": 89,
+      "createdAt": "2025-11-26T18:30:00Z"
+    }
+  ]
+}
